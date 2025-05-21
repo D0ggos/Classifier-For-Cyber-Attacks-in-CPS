@@ -1,2 +1,33 @@
-# cyberAttackClassifierInCPS
-This work is a project for Deep Learning course at Universidad de Concepción.
+# Cyber Attacks Classifier in CPS
+
+This repository contains the final project for the **Deep Learning** course at the **Universidad de Concepción**.
+
+The goal of this project is to classify and analyze cyberattacks—specifically **False Data Injection (FDI)** and **Denial of Service (DoS)**—injected and random variants into real industrial data from **Huachipato's boiler** system.
+
+We explore and compare the performance of different deep learning architectures:
+
+- **Multilayer Perceptron (MLP)**
+- **1D Convolutional Neural Network (CNN)**
+- **Autoencoder (AE)**
+
+---
+
+## Objectives
+
+- Simulate realistic cyberattacks on real process data
+- Train and evaluate deep learning models for attack detection
+- Compare model performance across different types of attacks and architectures
+
+---
+
+## Attacks Simulated
+
+- **FDI (False Data Injection)** – deterministic and random variation
+- **DoS (Denial of Service)** – deterministic and random variation
+
+---
+
+Feel free to explore the code, replicate the experiments, and suggest improvements!
+
+
+
