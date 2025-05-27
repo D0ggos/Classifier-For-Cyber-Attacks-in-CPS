@@ -1,4 +1,4 @@
-# Deep Learning Methods for Classify Cyber Attacks on CPS
+w# Deep Learning Methods for Classify Cyber Attacks on CPS
 
 This repository contains the final project for the **Deep Learning** course at the **Universidad de Concepción**.
 
@@ -7,7 +7,7 @@ The goal of this project is to classify and analyze cyberattacks—specifically 
 We explore and compare the performance of different deep learning architectures using PyTorch:
 
 - **Multilayer Perceptron (MLP)**
-- **1D Convolutional Neural Network (CNN)**
+- **1D Recurrent Neural Network (RNN)**
 - **Autoencoder (AE)**
 
 ---
