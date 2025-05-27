@@ -1,4 +1,4 @@
-w# Deep Learning Methods for Classify Cyber Attacks on CPS
+# Deep Learning Methods for Classify Cyber Attacks on CPS
 
 This repository contains the final project for the **Deep Learning** course at the **Universidad de Concepción**.
 
